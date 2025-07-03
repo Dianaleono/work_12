@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>AR Профорієнтаційний Квест - Криворізький ДПУ</title>
+    <title>AR Профорієнтаційний Квест - КДПУ</title>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
     <script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
@@ -149,9 +149,9 @@
 <body>
     <div class="quest-ui">
         <h2>🎯 AR Профорієнтаційний Квест</h2>
-        <p><strong>📍 Локація:</strong> Криворізький ДПУ</p>
+        <p><strong>📍 Локація:</strong> КДПУ</p>
         <p><strong>🎮 Завдання:</strong> Знайти та дослідити AR-об'єкти</p>
-        <p><strong>⭐ Станція 1:</strong> Факультет інформатики (ліворуч)</p>
+        <p><strong>⭐ Станція 1:</strong> Кафедра інформатики (ліворуч)</p>
         <p><strong>⭐ Станція 2:</strong> Кафедра математики (праворуч)</p>
         <p><strong>💡 Підказка:</strong> Клікніть на об'єкти для отримання інформації</p>
     </div>
